@@ -45,33 +45,22 @@ body {
         
 }
 
-.main-central {
+/* .main-central {
     display: flex;
     justify-content: center;
+    align-items: center;
     position: absolute;
     width: 1366px;
     height: 250px;
     left: 0px;
-    top: 130px;
+    top: 100px;
     background: linear-gradient(253.6deg, #98D0FC 2.46%, #3481D7 93.24%);
     border: 15px solid #FFFFFF;
 }
 
-.section-provider {
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    align-items: flex-end;
-}
-
-
-/* Vector */
-
-
-
 .Main-Title {
     font-size: 1.8em;
-    color: black;
+    color:black;
     text-align: center;
     border-radius: nullpx;
 
@@ -84,7 +73,7 @@ form {
     justify-content: center;
 }
 
-
+ */
 
 
 
